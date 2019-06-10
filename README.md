@@ -98,7 +98,7 @@ reported by contacting the chapter organizing team at
 7. invite another organizer
 8. continue until all organizers invited
 
-#### Tell organizer(s) know repo is ready
+#### Tell organizer(s) repo is ready
 1. Go to list of new repo requests: https://github.com/ProtoSchool/organizing/issues?q=is%3Aissue+is%3Aopen+label%3Anew-chapter
 2. Check box next to repo, click "label" and select "repo-created"
 3. Open issue
