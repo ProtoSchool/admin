@@ -16,7 +16,7 @@ Follow these steps to create a new chapter repo after a request has been vetted:
 
 ### Create chapter repo
 
-1. Go to https://github.com/organizations/ProtoSchool/repositories/new
+1. Click to [create a new repo](https://github.com/organizations/ProtoSchool/repositories/new)
 2. Under "Repository template," select "ProtoSchool/chapter-repo-template"
 3. Fill in repository name, eg `munich` or `san-francisco`
 4. Fill in description, eg "ProtoSchool Munich"
@@ -29,7 +29,7 @@ Because you started from a repository template, the new repository will already 
 - CODE_OF_CONDUCT.md (requires customization)
 - LICENSE.md (no updates required)
 
-_To update the repository template, visit https://github.com/organizations/ProtoSchool/chapter-repo-template._
+_To view or update the chapter repository template, visit the [`chapter-repo-template` repo](https://github.com/ProtoSchool/chapter-repo-template)._
 
 #### Update README.md
 1. Click pencil icon from homepage.
@@ -84,26 +84,26 @@ reported by contacting the chapter organizing team at
 
 
 #### Create chapter team and add organizer(s) to it
-1. While still in Collaborators & Teams, click "Create new team" (or visit https://github.com/orgs/ProtoSchool/new-team to add a new team)
+1. While still in Collaborators & Teams within the chapter repo, click "Create new team"
 3. Set team name to match repo name
 4. Set description as "CITY chapter members"
 5. leave remaining settings as is and click "create team"
 6. Click plus sign at left and repeat invite process to add all organizers to new team
-7. Visit https://github.com/ProtoSchool, scroll down and select name of new chapter
-10. click "settings" at top right
-11. click "collaborators and teams" at top left
-12. click "add a team" in middle and select name of new chapter
+
 
 #### Add organizer(s) to #chapter-organizers team
-1. Visit https://github.com/orgs/ProtoSchool/teams/chapter-organizers/members?add=true to add someone to the chapter-organizers team
-5. invite first organizer
-6. click "add a member"
-7. invite another organizer
-8. continue until all organizers invited
+1. Click to [add member to the `chapter-organizers` team](https://github.com/orgs/ProtoSchool/teams/chapter-organizers/members?add=true)
+2. Invite first organizer
+3. Click "add a member" to invite additional organizers (repeat until all are added)
+4. Continue until all organizers invited
+
+### Watch the chapter repo
+1. Visit chapter repo
+2. Click watch & be notified of all conversations
 
 ### Tell organizer(s) repo is ready
-1. Go to list of new repo requests: https://github.com/ProtoSchool/organizing/issues?q=is%3Aissue+is%3Aopen+label%3Anew-chapter
-2. Check box next to repo, click "label" and select "repo-created"
+1. Go to list of [new chapter requests](https://github.com/ProtoSchool/organizing/issues?q=is%3Aissue+is%3Aopen+label%3Anew-chapter)
+2. Check box next to correct repo, click "label" and select "repo-created"
 3. Open issue
 4. Copy ["Repo ready"](convo-templates/02-repo-ready.md) conversation template into new comment in issue and replace [ORGANIZER] and [CHAPTER] placeholders - proof carefully!
 
@@ -115,7 +115,3 @@ _Wait for organizers to submit PR to add chapter to website._
 3. Copy [Added to Website](convo-templates/03-added-to-website.md) conversation template into new comment in issue
 4. Click "comment and close"
 5. Do the same in the issue within their chapter repo
-
-#### Watch the chapter repo
-1. Visit chapter repo
-2. Click watch & be notified of all conversations
