@@ -1,5 +1,12 @@
 # Reference materials for ProtoSchool project maintainers
 
+This repo documents some admin processes used by our lead project maintainers. 
+
+Looking for guidance for our **local chapter organizers**? Please visit our [organizing repo](https://github.com/ProtoSchool/organizing) instead.
+
+Looking for guidance on building our **website and tutorials**? See our [website repo](https://github.com/ProtoSchool/protoschool.github.io).
+
+Learn more about ProtoSchool on our [website](https://proto.school).
 
 ## Project Management
   - [Roadmap](https://github.com/ProtoSchool/roadmap#protoschool-roadmap)
