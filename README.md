@@ -23,10 +23,11 @@ Learn more about ProtoSchool on our [website](https://proto.school).
 ## Chapters
   - [Chapter listings on website](https://proto.school/#/chapters)
   - Chapter Setup
-    - [Setup instructions](chapter-setup/chapter-setup.md) (in this repo)
+    - [Setup instructions for chapter organizers](https://github.com/ProtoSchool/organizing/blob/master/README.md#chapter-setup) (in `organizing` repo)
+    - [Setup instructions for project maintainers](chapter-setup/chapter-setup.md) (in this repo)
       - [Conversation templates](chapter-setup/convo-templates)
       - [Issue templates](chapter-setup/issue-templates)
     - [Chapter repo template](https://github.com/ProtoSchool/chapter-repo-template) (in `chapter-repo-template` repo)
-    - [New chapter requests](https://github.com/ProtoSchool/organizing/issues?q=is%3Aissue+is%3Aopen+label%3Anew-chapter) (in `organzing` repo)
+    - [New chapter requests](https://github.com/ProtoSchool/organizing/issues?q=is%3Aissue+is%3Aopen+label%3Anew-chapter) (in `organizing` repo)
       - [Open requests awaiting repo creation](https://github.com/ProtoSchool/organizing/issues?q=is%3Aissue+is%3Aopen+label%3Anew-chapter+-label%3Arepo-created) (waiting on maintainer)
       - [Open requests with repo already created](https://github.com/ProtoSchool/organizing/issues?q=is%3Aissue+is%3Aopen+label%3Anew-chapter+label%3Arepo-created) (waiting on chapter organizer to submit PR to add to listings)
