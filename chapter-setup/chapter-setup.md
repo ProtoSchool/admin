@@ -68,6 +68,7 @@ reported by contacting the chapter organizing team at
 7. Click "commit changes" to merge (Currently merging directly to master during setup)
 
 ### Add default issues
+_As of 10/21/19, it's not possible to have issues in a template repo carry over into a new repo built from it, so this step must be done manually._
 1. Add ["Personalize README.md & add calls to action"](issue-templates/01-personalize-repo.md) as is (copy title and body separately)
 3. Add ["Review Code of Conduct"](issue-templates/02-review-coc.md) (check which version is needed, copy title and body separately)
 4. Add ["Add chapter to our listings"](issue-templates/03-add-chapter-listing.md) as is (copy title and body separately)
